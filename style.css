@@ -6,9 +6,9 @@
 }
 
 body {
-    background: linear-gradient(120deg, #f6f9ff, #eef2ff);
-    color: #222;
+    background: red !important;
 }
+
 
 /* HEADER */
 header {
